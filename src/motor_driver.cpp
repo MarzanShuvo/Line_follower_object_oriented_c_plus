@@ -1,5 +1,5 @@
 /**
-    CS-11 Asn 2: Calculates the total of 6 checks
+    
     @file motor_driver.cpp
     @author Marzan Alam
     @version 1.0 9/01/22 

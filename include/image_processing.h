@@ -1,5 +1,4 @@
 /**
-    CS-11 Asn 2: Calculates the total of 6 checks
     @file image_processing.h
     @author Marzan Alam
     @version 1.0 9/01/22 
