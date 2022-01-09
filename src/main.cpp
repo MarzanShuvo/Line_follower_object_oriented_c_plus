@@ -1,3 +1,11 @@
+/**
+    CS-11 Asn 2: Calculates the total of 6 checks
+    @file main.cpp
+    @author Marzan Alam
+    @version 1.0 9/01/22 
+*/
+
+
 #include <opencv4/opencv2/opencv.hpp>
 #include "opencv4/opencv2/core/core.hpp"
 #include "opencv4/opencv2/imgproc/imgproc.hpp"

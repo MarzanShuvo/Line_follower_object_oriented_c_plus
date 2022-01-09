@@ -30,6 +30,10 @@ cmath
 tuple
 -
 
+/home/marzan/line_following_class/src/image_processing.cpp
+image_processing.h
+/home/marzan/line_following_class/src/image_processing.h
+
 /home/marzan/line_following_class/src/main.cpp
 opencv4/opencv2/opencv.hpp
 -

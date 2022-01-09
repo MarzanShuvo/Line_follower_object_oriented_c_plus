@@ -1,3 +1,10 @@
+/**
+    CS-11 Asn 2: Calculates the total of 6 checks
+    @file image_processing.h
+    @author Marzan Alam
+    @version 1.0 9/01/22 
+*/
+
 #pragma once
 #include <opencv4/opencv2/opencv.hpp>
 #include "opencv4/opencv2/core/core.hpp"
@@ -7,6 +14,7 @@
 #include <vector>
 #include<cmath>
 #include<tuple>
+
 
 namespace robot{
     class Image_Processing{
